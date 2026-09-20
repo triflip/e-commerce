@@ -4,9 +4,13 @@ A responsive e-commerce web application built with **HTML, CSS and JavaScript**.
 
 The project includes product browsing by category, shopping cart management, quantity handling, promotional discounts and a checkout form with validation.
 
+
 <div align="center">
-  <img src="assets/ecommerce-desktop.png" width="75%" alt="ShopNow desktop" />
-  <img src="assets/ecommerce-mobile.png" width="25%" alt="ShopNow mobile" />
+  <img src="assets/ecommerce-mobile.png" width="75%" alt="ShopNow desktop" />
+</div>
+
+<div align="center">
+  <img src="assets/ecommerce-desktop.png" width="35%" alt="ShopNow mobile" />
 </div>
 
 [![Demo](https://img.shields.io/badge/View%20Demo-9932CC?style=for-the-badge)](https://triflip.github.io/e-commerce/)
